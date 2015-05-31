@@ -1,0 +1,65 @@
+<html>
+
+	<header>
+
+		<style>
+			
+			body {
+				background: url('bg.jpg')no-repeat center center fixed; 
+  				-webkit-background-size: cover;
+ 				-moz-background-size: cover;
+ 				-o-background-size: cover;
+ 				 background-size: cover;
+			}
+
+			h1 {
+				color:white;
+				font-family: 'helvetica neue', helvetica;
+				font-weight: 100;
+				font-size: 60px;
+				margin: 0px;
+			}
+
+			p {
+				color:white;
+				font-family: 'helvetica neue', helvetica;
+				font-weight: 200;
+			}
+
+			.box{background-color: rgba(0,0,0,0.5);
+				padding: 20px;
+				width: 300px;
+				margin: 100px auto;
+				text-align: center;
+
+			}
+
+		</style>
+
+	</header>
+
+	<body>
+		<div class="box">
+			<h1>Anastasia Auber</h1>
+
+			<p>
+				<i>Future Coder</i>
+			</p>
+
+			<p>
+				I am Franco-Venezuelan and I am learning how to code!
+			</p>
+
+			<br />
+			<br />
+			<br />
+
+			<a href="https://www.facebook.com/aauber">
+				<img src="fb.png"/>
+			</a>
+		
+		</div>
+	</body>
+
+
+</html>
